@@ -2,15 +2,8 @@
 
 This Flutter app fetches and displays products from the Fakestore API using provider for state management.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-11-20 084345](https://github.com/user-attachments/assets/bba951e2-0a34-41bd-9343-b9bdd920c7ba)
+![Screenshot 2024-11-20 084322](https://github.com/user-attachments/assets/ba9bf178-df3c-49b3-ab33-42a5c1f9e823)
+![Screenshot 2024-11-20 084304](https://github.com/user-attachments/assets/1dbdfa97-d7b1-46c8-8430-71df66cec80c)
